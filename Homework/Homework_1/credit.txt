@@ -1,0 +1,10 @@
+Name   Debt    Income	Married?	Owns_Property	Gender	Risk
+Tim    low     low      no		no		male	low
+Joe    high    high	yes		yes		male	low
+Sue    low     high	yes		no		female	low
+John   medium  low	no		no		male	high
+Mary   high    low	yes		no		female	high
+Fred   low     low	yes		no		male	high
+Pete   low     medium	no		yes		male	low
+Jacob  high    medium	yes		yes		male	low
+Sofia  medium  low	no		no		female	low		
