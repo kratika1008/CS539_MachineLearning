@@ -19,4 +19,4 @@
 	* Neural Network implementation from scratch
 
 ## Project:
-* Distracted Driver Detection (follow Distracted_Driver_Detection/ to more details)
+* Distracted Driver Activity Detection (follow Distracted_Driver_Activity_Detection/ to more details)
